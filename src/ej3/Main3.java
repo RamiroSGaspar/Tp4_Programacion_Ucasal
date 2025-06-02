@@ -1,8 +1,6 @@
 package ej3;
 
-import java.util.Arrays;
-
-public class Main {
+public class Main3 {
     public static void main(String[] args) {
         // Crear un arreglo de 10 personas
         Persona[] personas = new Persona[10];

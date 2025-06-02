@@ -1,0 +1,15 @@
+/*
+ * UCASAL - PROGRAMACION I
+ * Autor: Ramiro Sebastian Gaspar
+ * ==========================
+ * EJERCICIO 3
+ * Crear los siguientes métodos de la clase Persona:
+ *    a. Info: Debe devolver una cadena que integre el DNI, Apellido, Nombre y Domicilio
+ *    b. IMC: Indice masa corporal. A partir del cálculo Peso en kg/Altura elevado al cuadrado
+ *    en m). Si el resultado es menor a 20 mostrar: “Debajo de su peso ideal”. Si el resultado
+ *    está entre 20 y 25 mostrar: “Está en su peso ideal”. Si es mayor a 25, mostrar
+ *    “Sobrepeso”.
+ *    c. esMayorDeEdad: indica si es mayor o igual a 18 años. Devuelve un valor booleano.
+
+ * ==================================================
+ */
