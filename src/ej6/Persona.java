@@ -1,4 +1,4 @@
-package ej5;
+package ej6;
 
 public class Persona {
     // Atributos
@@ -129,23 +129,10 @@ public class Persona {
                 '}';
     }
 
-    // --- EJERCICIO 5: Nuevos métodos ---
-
-    /**
-     * Devuelve información básica de la persona en formato:
-     * DNI - Apellido, Nombre - Domicilio
-     */
     public String info() {
         return dni + " - " + apellido + ", " + nombre + " - " + domicilio;
     }
 
-    /**
-     * Calcula el Índice de Masa Corporal (IMC) y devuelve un mensaje
-     * clasificando el resultado en tres categorías:
-     * - Debajo del peso ideal (IMC < 20)
-     * - Peso ideal (20 <= IMC <= 25)
-     * - Sobrepeso (IMC > 25)
-     */
     public String IMC() {
         // Validar que altura no sea cero para evitar división por cero
         if (altura <= 0) {

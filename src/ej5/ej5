@@ -2,7 +2,7 @@
  * UCASAL - PROGRAMACION I
  * Autor: Ramiro Sebastian Gaspar
  * ==========================
- * EJERCICIO 3
+ * EJERCICIO 5
  * Crear los siguientes métodos de la clase Persona:
  *    a. Info: Debe devolver una cadena que integre el DNI, Apellido, Nombre y Domicilio
  *    b. IMC: Indice masa corporal. A partir del cálculo Peso en kg/Altura elevado al cuadrado

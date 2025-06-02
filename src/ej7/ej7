@@ -1,0 +1,11 @@
+/*
+ * UCASAL - PROGRAMACION I
+ * Autor: Ramiro Sebastian Gaspar
+ * ==========================
+ * EJERCICIO 7
+ * 7- Crear la clase “Profesor”, que herede de la clase “Persona”, y además tenga los atributos:
+ *    a. Materia: cadena de texto
+ *    b. CargaHoraria: numérico entero
+
+ * ==================================================
+ */numérico entero

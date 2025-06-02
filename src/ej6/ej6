@@ -1,0 +1,14 @@
+/*
+ * UCASAL - PROGRAMACION I
+ * Autor: Ramiro Sebastian Gaspar
+ * ==========================
+ * EJERCICIO 6
+ * 6- Crear una clase ejecutable que haga lo siguiente:
+ *   a. Pedir al usuario el ingreso de los datos de 3 Personas, creando para cada una de ellas
+ *   un objeto.
+ *   b. Para cada objeto deberá comprobar su IMC mostrando el resultado.
+ *   c. Para cada objeto deberá calcular si es Mayor de Edad, mostrando el resultado.
+ *   d. Para cada objeto mostrar la info del mismo
+
+ * ==================================================
+ */
