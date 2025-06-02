@@ -1,4 +1,4 @@
-package ej7;
+package ej8;
 
 public class Profesor extends Persona {
     // Atributos adicionales
@@ -55,3 +55,4 @@ public class Profesor extends Persona {
         return super.info() + " | Materia: " + materia + " (" + cargaHoraria + " horas)";
     }
 }
+
