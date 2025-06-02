@@ -1,0 +1,17 @@
+/*
+ * UCASAL - PROGRAMACION I
+ * Autor: Ramiro Sebastian Gaspar
+ * ==========================
+ * EJERCICIO 1
+ * Crear una clase “Persona”, con los siguientes atributos:
+ * a. IdPersona: numérico entero
+ * b. Dni: numérico entero
+ * c. Apellido: cadena de texto
+ * d. Nombre: cadena de texto
+ * e. Edad: numérico entero
+ * f. Género: texto
+ * g. Peso: numérico con decimales
+ * h. Altura: numérico con decimales
+ * i. Domicilio: cadena de texto
+ * ==================================================
+ */
