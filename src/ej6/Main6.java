@@ -84,7 +84,7 @@ public class Main6 {
             System.out.println("¡Persona registrada exitosamente!");
         }
 
-        // Mostrar resultados para cada persona
+        // Mostrar resultados
         System.out.println("\n=== RESULTADOS ===");
         for (int i = 0; i < 3; i++) {
             System.out.println("\n--- INFORMACIÓN DE PERSONA #" + (i + 1) + " ---");

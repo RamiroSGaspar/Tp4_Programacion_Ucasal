@@ -150,10 +150,6 @@ public class Persona {
         }
     }
 
-    /**
-     * Determina si la persona es mayor de edad (18 años o más)
-     * @return true si es mayor de edad, false en caso contrario
-     */
     public boolean esMayorDeEdad() {
         return edad >= 18;
     }

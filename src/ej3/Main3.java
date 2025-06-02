@@ -2,7 +2,6 @@ package ej3;
 
 public class Main3 {
     public static void main(String[] args) {
-        // Crear un arreglo de 10 personas
         Persona[] personas = new Persona[10];
 
         // Inicializar cada elemento del arreglo

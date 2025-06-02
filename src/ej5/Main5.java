@@ -2,7 +2,6 @@ package ej5;
 
 public class Main5 {
     public static void main(String[] args) {
-        // Crear una persona de ejemplo
         Persona persona = new Persona(
                 1,
                 38987123,
@@ -15,7 +14,6 @@ public class Main5 {
                 "Av. Siempreviva 742"
         );
 
-        // Probar los nuevos métodos
         System.out.println("=== INFORMACIÓN BÁSICA ===");
         System.out.println(persona.info());
 

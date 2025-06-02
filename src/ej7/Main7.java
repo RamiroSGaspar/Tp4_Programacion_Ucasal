@@ -2,7 +2,6 @@ package ej7;
 
 public class Main7 {
     public static void main(String[] args) {
-        // Crear un profesor usando el constructor completo
         Profesor profesor1 = new Profesor(
                 1,
                 25456879,
@@ -17,7 +16,6 @@ public class Main7 {
                 30
         );
 
-        // Crear un profesor usando setters
         Profesor profesor2 = new Profesor();
         profesor2.setIdPersona(2);
         profesor2.setDni(35254123);
@@ -31,7 +29,6 @@ public class Main7 {
         profesor2.setMateria("Física");
         profesor2.setCargaHoraria(25);
 
-        // Mostrar información usando los métodos sobrescritos
         System.out.println("=== PROFESOR 1 ===");
         System.out.println(profesor1.toString());
         System.out.println("Info básica: " + profesor1.info());
