@@ -2,7 +2,7 @@
  * UCASAL - PROGRAMACION I
  * Autor: Ramiro Sebastian Gaspar
  * ==========================
- * EJERCICIO 2
- * Crear objetos a partir de la clase “Persona”. Crear 5 personas.
+ * EJERCICIO 3
+ * nstanciar 10 objetos de la clase “Persona” y guardarlos en un arreglo.
  * ==================================================
  */
