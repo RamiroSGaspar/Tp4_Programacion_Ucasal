@@ -1,7 +1,5 @@
 package ej9;
 
-import ej8.Persona;
-
 public class Profesor extends Persona {
     // Atributos adicionales
     private String materia;
